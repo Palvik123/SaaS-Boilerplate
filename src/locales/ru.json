@@ -1,167 +1,167 @@
 {
   "Index": {
-    "meta_title": "AI SaaS Платформа — Масштабируйте бизнес с помощью искусственного интеллекта.",
-    "meta_description": "Бесплатный шаблон лендинга для вашего AI B2B SaaS бизнеса, построенный на React, TypeScript, Shadcn UI и Tailwind CSS."
+    "meta_title": "ИИ ВЕНЧУР ЛАБ — Интерпретируемый AI-скоринг технологических проектов",
+    "meta_description": "ML-платформа для первичной оценки технологических проектов. Прозрачный скоринг, ранжирование заявок и объяснимая аналитика для венчурных фондов и акселераторов."
   },
   "Navbar": {
     "sign_in": "Войти",
-    "sign_up": "Регистрация",
-    "product": "Продукт",
-    "docs": "Документация",
-    "blog": "Блог",
-    "community": "Сообщество",
-    "company": "О компании"
+    "sign_up": "Демо-доступ",
+    "product": "Платформа",
+    "docs": "Методология",
+    "blog": "Исследования",
+    "community": "Партнёры",
+    "company": "О проекте"
   },
   "Hero": {
-    "follow_twitter": "Следите за нами в Twitter",
-    "title": "Идеальная <important>AI платформа</important> для роста вашего бизнеса.",
-    "description": "Автоматизируйте процессы, увеличивайте доход и масштабируйтесь с помощью нашего AI решения для B2B команд.",
-    "primary_button": "Начать бесплатно",
-    "secondary_button": "Посмотреть на GitHub"
+    "follow_twitter": "Следите за проектом",
+    "title": "Интерпретируемый <important>AI-скоринг</important> технологических проектов для венчура и акселерации.",
+    "description": "ML-платформа для прозрачного первичного отбора стартапов. Ранжирование заявок, расчёт скоринговой оценки и объяснимые факторы принятия решений на основе машинного обучения.",
+    "primary_button": "Запросить демо",
+    "secondary_button": "Методология на GitHub"
   },
   "Sponsors": {
-    "title": "Нам доверяют"
+    "title": "Партнёры проекта"
   },
   "Features": {
-    "section_subtitle": "Возможности",
-    "section_title": "Раскройте полный потенциал AI для вашего бизнеса",
-    "section_description": "Всё необходимое для запуска и масштабирования вашего B2B SaaS продукта.",
-    "feature1_title": "Автоматизация",
-    "feature2_title": "Аналитика",
-    "feature3_title": "Интеграции",
-    "feature4_title": "Безопасность",
-    "feature5_title": "Командная работа",
-    "feature6_title": "Поддержка 24/7",
-    "feature_description": "Мощные AI инструменты для ускорения роста и повышения эффективности вашей команды."
+    "section_subtitle": "Возможности платформы",
+    "section_title": "Прозрачная аналитика для первичного отбора проектов",
+    "section_description": "Интерпретируемый машинный скоринг на основе факторного анализа. Система не принимает решения автоматически — она поддерживает аналитиков объяснимыми инсайтами.",
+    "feature1_title": "Скоринг проектов",
+    "feature2_title": "Ранжирование заявок",
+    "feature3_title": "Факторный анализ",
+    "feature4_title": "Интерпретация",
+    "feature5_title": "Структурирование данных",
+    "feature6_title": "Экспертная валидация",
+    "feature_description": "Платформа формализует процедуры первичного отбора, повышает воспроизводимость критериев оценки и снижает трудоёмкость анализа портфеля заявок."
   },
   "Pricing": {
-    "section_subtitle": "Тарифы",
-    "section_title": "Выберите план под ваши задачи",
-    "section_description": "Прозрачные цены без скрытых платежей. Начните бесплатно и масштабируйтесь по мере роста.",
-    "button_text": "Начать"
+    "section_subtitle": "Модель доступа",
+    "section_title": "Гибкие варианты использования платформы",
+    "section_description": "MVP платформы проходит пилотное тестирование. Предлагаем ограниченный доступ для венчурных фондов, акселераторов и институтов развития.",
+    "button_text": "Запросить доступ"
   },
   "PricingPlan": {
-    "free_plan_name": "Бесплатный",
-    "premium_plan_name": "Профессиональный",
-    "enterprise_plan_name": "Корпоративный",
-    "free_plan_description": "Для частных лиц",
-    "premium_plan_description": "Для малых команд",
-    "enterprise_plan_description": "Для лидеров отрасли",
-    "feature_team_member": "{number} участников команды",
-    "feature_website": "{number} сайтов",
-    "feature_storage": "{number} ГБ хранилища",
-    "feature_transfer": "{number} ТБ трафика",
-    "feature_email_support": "Поддержка по email",
+    "free_plan_name": "Демо",
+    "premium_plan_name": "Пилот",
+    "enterprise_plan_name": "Enterprise",
+    "free_plan_description": "Тестовый доступ",
+    "premium_plan_description": "Для акселераторов",
+    "enterprise_plan_description": "Для венчурных фондов",
+    "feature_team_member": "{number} пользователей",
+    "feature_website": "{number} проектов в месяц",
+    "feature_storage": "{number} ГБ хранилища данных",
+    "feature_transfer": "API-доступ",
+    "feature_email_support": "Экспертная поддержка",
     "plan_interval_month": "месяц",
     "plan_interval_year": "год",
-    "next_renew_date": "Ваша подписка обновляется {date}"
+    "next_renew_date": "Доступ активен до {date}"
   },
   "FAQ": {
-    "question": "Как AI помогает моему бизнесу расти быстрее?",
-    "answer": "Наш AI анализирует ваши бизнес-процессы и автоматически находит точки роста. Платформа интегрируется с вашими существующими инструментами за несколько минут. Клиенты в среднем увеличивают эффективность команды на 35% в первые 3 месяца работы с платформой."
+    "question": "Как ML-модель оценивает технологические проекты?",
+    "answer": "Платформа анализирует ключевые признаки проекта и рассчитывает вероятность перехода к следующему раунду финансирования в течение 18–24 месяцев. Модель обучена на исторических данных венчурных сделок и обеспечивает интерпретируемое объяснение факторов оценки. Система не принимает решения автоматически — она предоставляет аналитикам прозрачные инсайты."
   },
   "CTA": {
-    "title": "Готовы начать?",
-    "description": "Присоединяйтесь к тысячам компаний, которые уже масштабируются с нашим AI решением.",
-    "button_text": "Попробовать бесплатно"
+    "title": "Готовы протестировать платформу?",
+    "description": "Присоединяйтесь к пилотному тестированию ML-платформы для первичного скоринга технологических проектов. Ограниченное количество мест.",
+    "button_text": "Запросить демо-доступ"
   },
   "Footer": {
-    "product": "Продукт",
-    "docs": "Документация",
-    "blog": "Блог",
-    "community": "Сообщество",
-    "company": "О компании",
+    "product": "Платформа",
+    "docs": "Методология",
+    "blog": "Исследования",
+    "community": "Партнёры",
+    "company": "О проекте",
     "terms_of_service": "Условия использования",
     "privacy_policy": "Политика конфиденциальности",
-    "footer_text": "© {year} {name}. Сделано с любовью."
+    "footer_text": "© {year} ООО ИИ ВЕНЧУР ЛАБ. Проект НИОКР."
   },
   "ProtectFallback": {
     "not_enough_permission": "У вас недостаточно прав для выполнения этого действия"
   },
   "SignIn": {
-    "meta_title": "Войти",
-    "meta_description": "Войдите в свой аккаунт быстро и безопасно."
+    "meta_title": "Вход в платформу",
+    "meta_description": "Войдите в аналитическую платформу скоринга технологических проектов."
   },
   "SignUp": {
-    "meta_title": "Регистрация",
-    "meta_description": "Создайте аккаунт за несколько секунд."
+    "meta_title": "Запрос демо-доступа",
+    "meta_description": "Запросите демо-доступ к ML-платформе для первичного скоринга проектов."
   },
   "DashboardLayout": {
     "home": "Главная",
-    "todos": "Задачи",
-    "members": "Участники",
-    "billing": "Оплата",
+    "todos": "Проекты",
+    "members": "Команда",
+    "billing": "Подписка",
     "settings": "Настройки"
   },
   "Dashboard": {
-    "meta_title": "Панель управления — AI SaaS Платформа",
-    "meta_description": "Управляйте своим AI SaaS бизнесом из единой панели управления."
+    "meta_title": "Панель аналитики — ИИ ВЕНЧУР ЛАБ",
+    "meta_description": "Управление скорингом технологических проектов из единой аналитической панели."
   },
   "DashboardIndex": {
-    "title_bar": "Панель управления",
-    "title_bar_description": "Добро пожаловать в вашу панель управления",
-    "message_state_title": "Начнём работу",
-    "message_state_description": "Вы можете настроить эту страницу, отредактировав файл `dashboard/page.tsx`",
-    "message_state_button": "Поставить звезду на GitHub",
-    "message_state_alternative": "Нужны расширенные функции? Next.js 16 и React 19, Multi-tenancy и Teams, Roles и Permissions, Shadcn UI, End-to-End Typesafety с oRPC, Stripe Payment, Light / Dark mode.",
-    "max_message": "Или нужен Self-hosted стек аутентификации (Better Auth)?"
+    "title_bar": "Аналитическая панель",
+    "title_bar_description": "Добро пожаловать в ML-платформу скоринга проектов",
+    "message_state_title": "Начните работу с платформой",
+    "message_state_description": "Загрузите данные проектов для первичной оценки или изучите методологию скоринга в документации.",
+    "message_state_button": "Методология на GitHub",
+    "message_state_alternative": "Платформа находится в стадии MVP и проходит пилотное тестирование. Функциональность расширяется по мере получения обратной связи от партнёров.",
+    "max_message": "Проект реализуется в рамках диссертационного исследования и поддерживается ООО ИИ ВЕНЧУР ЛАБ."
   },
   "UserProfile": {
     "title_bar": "Профиль пользователя",
-    "title_bar_description": "Просмотр и управление профилем пользователя"
+    "title_bar_description": "Управление профилем и настройками доступа"
   },
   "OrganizationProfile": {
-    "title_bar": "Управление организацией",
-    "title_bar_description": "Управляйте вашей организацией"
+    "title_bar": "Настройки организации",
+    "title_bar_description": "Управление фондом/акселератором"
   },
   "Billing": {
-    "title_bar": "Оплата",
-    "title_bar_description": "Управление подпиской и счетами",
-    "current_section_title": "Текущий план",
-    "current_section_description": "Выберите тариф, который подходит вашим задачам",
-    "manage_subscription_button": "Управление подпиской"
+    "title_bar": "Подписка",
+    "title_bar_description": "Управление доступом к платформе",
+    "current_section_title": "Текущий план доступа",
+    "current_section_description": "Выберите тариф в зависимости от объёма оцениваемых проектов",
+    "manage_subscription_button": "Изменить план"
   },
   "BillingOptions": {
     "current_plan": "Текущий план",
-    "upgrade_plan": "Начать"
+    "upgrade_plan": "Запросить доступ"
   },
   "CheckoutConfirmation": {
-    "title_bar": "Подтверждение оплаты",
-    "message_state_title": "Оплата прошла успешно",
-    "message_state_description": "Ваш платёж успешно обработан. Спасибо за покупку!",
-    "message_state_button": "Вернуться к оплате"
+    "title_bar": "Подтверждение доступа",
+    "message_state_title": "Доступ активирован",
+    "message_state_description": "Ваш запрос на доступ к платформе обработан. Вы получите инструкции на email.",
+    "message_state_button": "Вернуться к подписке"
   },
   "DataTable": {
-    "no_results": "Результаты не найдены."
+    "no_results": "Проекты не найдены."
   },
   "Todos": {
-    "title_bar": "Список задач",
-    "title_bar_description": "Просмотр и управление списком задач",
-    "add_todo_button": "Новая задача"
+    "title_bar": "Проекты на оценке",
+    "title_bar_description": "Список технологических проектов для скоринга",
+    "add_todo_button": "Добавить проект"
   },
   "TodoTableColumns": {
     "open_menu": "Открыть меню",
     "edit": "Редактировать",
     "delete": "Удалить",
-    "title_header": "Заголовок",
-    "message_header": "Сообщение",
-    "created_at_header": "Создано"
+    "title_header": "Название проекта",
+    "message_header": "Описание",
+    "created_at_header": "Дата подачи"
   },
   "AddTodo": {
-    "title_bar": "Добавить задачу",
-    "add_todo_section_title": "Создать новую задачу",
-    "add_todo_section_description": "Заполните форму ниже для создания новой задачи"
+    "title_bar": "Добавить проект",
+    "add_todo_section_title": "Создать карточку проекта",
+    "add_todo_section_description": "Введите базовую информацию о технологическом проекте для первичного скоринга"
   },
   "EditTodo": {
-    "title_bar": "Редактировать задачу",
-    "edit_todo_section_title": "Изменить задачу",
-    "edit_todo_section_description": "Заполните форму ниже для редактирования задачи"
+    "title_bar": "Редактировать проект",
+    "edit_todo_section_title": "Изменить данные проекта",
+    "edit_todo_section_description": "Обновите информацию о проекте для пересчёта скоринговой оценки"
   },
   "TodoForm": {
-    "title_label": "Заголовок",
-    "title_description": "Введите описательный заголовок для вашей задачи.",
-    "message_title": "Сообщение",
-    "message_description": "Введите подробное сообщение для вашей задачи.",
-    "submit_button": "Отправить"
+    "title_label": "Название проекта",
+    "title_description": "Введите полное название технологического проекта.",
+    "message_title": "Описание проекта",
+    "message_description": "Краткое описание технологии, целевого рынка и команды проекта.",
+    "submit_button": "Сохранить проект"
   }
 }
