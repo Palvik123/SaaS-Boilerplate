@@ -1,0 +1,167 @@
+{
+  "Index": {
+    "meta_title": "AI SaaS Платформа — Масштабируйте бизнес с помощью искусственного интеллекта.",
+    "meta_description": "Бесплатный шаблон лендинга для вашего AI B2B SaaS бизнеса, построенный на React, TypeScript, Shadcn UI и Tailwind CSS."
+  },
+  "Navbar": {
+    "sign_in": "Войти",
+    "sign_up": "Регистрация",
+    "product": "Продукт",
+    "docs": "Документация",
+    "blog": "Блог",
+    "community": "Сообщество",
+    "company": "О компании"
+  },
+  "Hero": {
+    "follow_twitter": "Следите за нами в Twitter",
+    "title": "Идеальная <important>AI платформа</important> для роста вашего бизнеса.",
+    "description": "Автоматизируйте процессы, увеличивайте доход и масштабируйтесь с помощью нашего AI решения для B2B команд.",
+    "primary_button": "Начать бесплатно",
+    "secondary_button": "Посмотреть на GitHub"
+  },
+  "Sponsors": {
+    "title": "Нам доверяют"
+  },
+  "Features": {
+    "section_subtitle": "Возможности",
+    "section_title": "Раскройте полный потенциал AI для вашего бизнеса",
+    "section_description": "Всё необходимое для запуска и масштабирования вашего B2B SaaS продукта.",
+    "feature1_title": "Автоматизация",
+    "feature2_title": "Аналитика",
+    "feature3_title": "Интеграции",
+    "feature4_title": "Безопасность",
+    "feature5_title": "Командная работа",
+    "feature6_title": "Поддержка 24/7",
+    "feature_description": "Мощные AI инструменты для ускорения роста и повышения эффективности вашей команды."
+  },
+  "Pricing": {
+    "section_subtitle": "Тарифы",
+    "section_title": "Выберите план под ваши задачи",
+    "section_description": "Прозрачные цены без скрытых платежей. Начните бесплатно и масштабируйтесь по мере роста.",
+    "button_text": "Начать"
+  },
+  "PricingPlan": {
+    "free_plan_name": "Бесплатный",
+    "premium_plan_name": "Профессиональный",
+    "enterprise_plan_name": "Корпоративный",
+    "free_plan_description": "Для частных лиц",
+    "premium_plan_description": "Для малых команд",
+    "enterprise_plan_description": "Для лидеров отрасли",
+    "feature_team_member": "{number} участников команды",
+    "feature_website": "{number} сайтов",
+    "feature_storage": "{number} ГБ хранилища",
+    "feature_transfer": "{number} ТБ трафика",
+    "feature_email_support": "Поддержка по email",
+    "plan_interval_month": "месяц",
+    "plan_interval_year": "год",
+    "next_renew_date": "Ваша подписка обновляется {date}"
+  },
+  "FAQ": {
+    "question": "Как AI помогает моему бизнесу расти быстрее?",
+    "answer": "Наш AI анализирует ваши бизнес-процессы и автоматически находит точки роста. Платформа интегрируется с вашими существующими инструментами за несколько минут. Клиенты в среднем увеличивают эффективность команды на 35% в первые 3 месяца работы с платформой."
+  },
+  "CTA": {
+    "title": "Готовы начать?",
+    "description": "Присоединяйтесь к тысячам компаний, которые уже масштабируются с нашим AI решением.",
+    "button_text": "Попробовать бесплатно"
+  },
+  "Footer": {
+    "product": "Продукт",
+    "docs": "Документация",
+    "blog": "Блог",
+    "community": "Сообщество",
+    "company": "О компании",
+    "terms_of_service": "Условия использования",
+    "privacy_policy": "Политика конфиденциальности",
+    "footer_text": "© {year} {name}. Сделано с любовью."
+  },
+  "ProtectFallback": {
+    "not_enough_permission": "У вас недостаточно прав для выполнения этого действия"
+  },
+  "SignIn": {
+    "meta_title": "Войти",
+    "meta_description": "Войдите в свой аккаунт быстро и безопасно."
+  },
+  "SignUp": {
+    "meta_title": "Регистрация",
+    "meta_description": "Создайте аккаунт за несколько секунд."
+  },
+  "DashboardLayout": {
+    "home": "Главная",
+    "todos": "Задачи",
+    "members": "Участники",
+    "billing": "Оплата",
+    "settings": "Настройки"
+  },
+  "Dashboard": {
+    "meta_title": "Панель управления — AI SaaS Платформа",
+    "meta_description": "Управляйте своим AI SaaS бизнесом из единой панели управления."
+  },
+  "DashboardIndex": {
+    "title_bar": "Панель управления",
+    "title_bar_description": "Добро пожаловать в вашу панель управления",
+    "message_state_title": "Начнём работу",
+    "message_state_description": "Вы можете настроить эту страницу, отредактировав файл `dashboard/page.tsx`",
+    "message_state_button": "Поставить звезду на GitHub",
+    "message_state_alternative": "Нужны расширенные функции? Next.js 16 и React 19, Multi-tenancy и Teams, Roles и Permissions, Shadcn UI, End-to-End Typesafety с oRPC, Stripe Payment, Light / Dark mode.",
+    "max_message": "Или нужен Self-hosted стек аутентификации (Better Auth)?"
+  },
+  "UserProfile": {
+    "title_bar": "Профиль пользователя",
+    "title_bar_description": "Просмотр и управление профилем пользователя"
+  },
+  "OrganizationProfile": {
+    "title_bar": "Управление организацией",
+    "title_bar_description": "Управляйте вашей организацией"
+  },
+  "Billing": {
+    "title_bar": "Оплата",
+    "title_bar_description": "Управление подпиской и счетами",
+    "current_section_title": "Текущий план",
+    "current_section_description": "Выберите тариф, который подходит вашим задачам",
+    "manage_subscription_button": "Управление подпиской"
+  },
+  "BillingOptions": {
+    "current_plan": "Текущий план",
+    "upgrade_plan": "Начать"
+  },
+  "CheckoutConfirmation": {
+    "title_bar": "Подтверждение оплаты",
+    "message_state_title": "Оплата прошла успешно",
+    "message_state_description": "Ваш платёж успешно обработан. Спасибо за покупку!",
+    "message_state_button": "Вернуться к оплате"
+  },
+  "DataTable": {
+    "no_results": "Результаты не найдены."
+  },
+  "Todos": {
+    "title_bar": "Список задач",
+    "title_bar_description": "Просмотр и управление списком задач",
+    "add_todo_button": "Новая задача"
+  },
+  "TodoTableColumns": {
+    "open_menu": "Открыть меню",
+    "edit": "Редактировать",
+    "delete": "Удалить",
+    "title_header": "Заголовок",
+    "message_header": "Сообщение",
+    "created_at_header": "Создано"
+  },
+  "AddTodo": {
+    "title_bar": "Добавить задачу",
+    "add_todo_section_title": "Создать новую задачу",
+    "add_todo_section_description": "Заполните форму ниже для создания новой задачи"
+  },
+  "EditTodo": {
+    "title_bar": "Редактировать задачу",
+    "edit_todo_section_title": "Изменить задачу",
+    "edit_todo_section_description": "Заполните форму ниже для редактирования задачи"
+  },
+  "TodoForm": {
+    "title_label": "Заголовок",
+    "title_description": "Введите описательный заголовок для вашей задачи.",
+    "message_title": "Сообщение",
+    "message_description": "Введите подробное сообщение для вашей задачи.",
+    "submit_button": "Отправить"
+  }
+}
