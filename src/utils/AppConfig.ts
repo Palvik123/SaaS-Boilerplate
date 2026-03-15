@@ -6,15 +6,16 @@ const localePrefix: LocalePrefix = 'as-needed';
 
 // FIXME: Update this configuration file based on your project information
 export const AppConfig = {
-  name: 'SaaS Template',
+  name: 'ИИ ВЕНЧУР ЛАБ',
   locales: [
     {
       id: 'en',
       name: 'English',
     },
     { id: 'fr', name: 'Français' },
+        { id: 'ru', name: 'Русский' },
   ],
-  defaultLocale: 'en',
+  defaultLocale: 'ru',
   localePrefix,
 };
 
