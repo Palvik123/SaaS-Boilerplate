@@ -15,8 +15,7 @@ export const Hero = () => {
         banner={(
           <a
             className={badgeVariants()}
-            href="https://twitter.com/ixartz"
-            target="_blank"
+                  href="https://github.com/Palvik123/SaaS-Boilerplate"            target="_blank"
             rel="noopener noreferrer"
           >
             <TwitterLogoIcon className="mr-1 size-5" />
@@ -36,16 +35,14 @@ export const Hero = () => {
           <>
             <a
               className={buttonVariants({ variant: 'outline', size: 'lg' })}
-              href="https://github.com/ixartz/SaaS-Boilerplate"
-            >
+                  href="https://github.com/Palvik123/SaaS-Boilerplate"            >
               <GitHubLogoIcon className="mr-2 size-5" />
               {t('secondary_button')}
             </a>
 
             <a
               className={buttonVariants({ size: 'lg' })}
-              href="https://nextjs-boilerplate.com/nextjs-multi-tenant-saas-boilerplate"
-            >
+                  href="/sign-up"            >
               {t('primary_button')}
               <ArrowRightIcon className="ml-1 size-5" />
             </a>
