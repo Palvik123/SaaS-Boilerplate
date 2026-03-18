@@ -66,18 +66,26 @@ const AboutPage = () => {
         <div className="space-y-6">
           <div className="border-l-4 border-blue-500 pl-4">
             <h3 className="font-semibold text-lg mb-2">
-                Конференция РЭУ Плеханова (13.12.2024)            </h3>
+              РАЗВИТИЕ ФИНАНСОВОГО РЫНКА И ПРЕДПРИНИМАТЕЛЬСКИХ СТРУКТУР В СОВРЕМЕННЫХ УСЛОВИЯХ (РЭУ им. Г.В. Плеханова, 13.12.2024)
             <p className="text-gray-700 dark:text-gray-300">
-              Доклад: "Алгоритмы машинного обучения и их применение в инвестиционной сфер"
+              Доклад: "Алгоритмы машинного обучения и их применение в инвестиционной сфеере"
             </p>
           </div>
           <div className="border-l-4 border-blue-500 pl-4">
-            <h3 className="font-semibold text-lg mb-2">
+            <h3 className="font-semibold text-lg mb-2"е
               Конференция ИГСУ РАНХиГС (  19-23 мая 2025)
             </h3>
             <p className="text-gray-700 dark:text-gray-300">
                 Доклад: "Анализ факторов успешности стартапов с использованием интеллектуальных алгоритмов: эмпирические результаты для российского рынка"            </p>
           </div>
+                    <div className="border-l-4 border-blue-500 pl-4">
+                                  <h3 className="font-semibold text-lg mb-2">
+                                                  X Международная научно-практическая конференция (МГУ, 26.05.2025)
+                                                </h3>
+                                  <p className="text-gray-700 dark:text-gray-300">
+                                                  Доклад: "Методические подходы к управлению венчурными инвестициями на развивающихся рынках в условиях цифровой трансформации"
+                                                </p>
+                                </div>
         </div>
       </section>
 
