@@ -23,8 +23,8 @@ export const AllLocales = AppConfig.locales.map(locale => locale.id);
 
 export const PLAN_ID = {
   FREE: 'free',
-  PREMIUM: 'premium',
-  as const;
+  PREMIUM: 'premium'
+} as const;
 
 export const PricingPlanList: Record<string, PricingPlan> = {
 
