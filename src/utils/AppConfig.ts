@@ -27,6 +27,7 @@ export const PLAN_ID = {
 } as const;
 
 export const PricingPlanList: Record<string, PricingPlan> = {
+  [PLAN_ID.FREE]: {
 
     id: PLAN_ID.FREE,
     price: 100000,
