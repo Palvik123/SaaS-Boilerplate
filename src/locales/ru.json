@@ -41,11 +41,11 @@
     "button_text": "Запросить доступ"
   },
   "PricingPlan": {
-    "free_plan_name": "Демо",
-    "premium_plan_name": "Пилот",
+    "free_plan_name": "Старт",
+    "premium_plan_name": "Профи",
     "enterprise_plan_name": "Enterprise",
-    "free_plan_description": "Тестовый доступ",
-    "premium_plan_description": "Для акселераторов",
+    "free_plan_description": "Базовый тариф доступ",
+    "premium_plan_description": "Для Профессиональный",
     "enterprise_plan_description": "Для венчурных фондов",
     "feature_team_member": "{number} пользователей",
     "feature_website": "{number} проектов в месяц",
