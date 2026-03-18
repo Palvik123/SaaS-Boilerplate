@@ -72,7 +72,7 @@ const AboutPage = () => {
             </p>
           </div>
           <div className="border-l-4 border-blue-500 pl-4">
-            <h3 className="font-semibold text-lg mb-2"е
+            <h3 className="font-semibold text-lg mb-2">
               Конференция ИГСУ РАНХиГС (  19-23 мая 2025)
             </h3>
             <p className="text-gray-700 dark:text-gray-300">
