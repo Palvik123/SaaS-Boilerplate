@@ -24,11 +24,10 @@ export const AllLocales = AppConfig.locales.map(locale => locale.id);
 export const PLAN_ID = {
   FREE: 'free',
   PREMIUM: 'premium',
-  ENTERPRISE: 'enterprise',
-} as const;
+  as const;
 
 export const PricingPlanList: Record<string, PricingPlan> = {
-  [PLAN_ID.FREE]: {
+
     id: PLAN_ID.FREE,
     price: 100000,
     interval: BILLING_INTERVAL.MONTH,
@@ -55,21 +54,6 @@ export const PricingPlanList: Record<string, PricingPlan> = {
       website: 5,
       storage: 5,
       transfer: 5,
-    },
-  },
-  [PLAN_ID.ENTERPRISE]: {
-    id: PLAN_ID.ENTERPRISE,
-    price: 199,
-    interval: BILLING_INTERVAL.MONTH,
-    testPriceId: 'price_enterprise_test', // Use for testing
-    // FIXME: Update the price ID, you can create it after running `npm run stripe:setup-price`
-    devPriceId: 'price_1PNksvKOp3DEwzQli9IvXzgb',
-    prodPriceId: 'price_123',
-    features: {
-      teamMember: 100,
-      website: 100,
-      storage: 100,
-      transfer: 100,
     },
   },
 };
